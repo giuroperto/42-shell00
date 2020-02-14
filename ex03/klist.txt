@@ -1,0 +1,6 @@
+Credentials cache: API:0E5FAC3A-AE6F-481E-A0F0-7BC85E66A8E2
+        Principal: goka-rop@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Oct  2 18:49:02 2019  Oct  9 18:49:02 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Oct  2 19:21:25 2019  Oct  9 18:49:02 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
